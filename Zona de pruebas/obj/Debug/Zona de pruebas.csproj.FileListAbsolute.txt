@@ -1,0 +1,13 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\Zona de pruebas.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\Zona de pruebas.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\Zona de pruebas.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\FuncionesEstadistica.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\SpreadsheetLight.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\FuncionesEstadistica.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\bin\Debug\SpreadsheetLight.xml
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\obj\Debug\Zona de pruebas.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\obj\Debug\Zona de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\obj\Debug\Zona de pruebas.csproj.CopyComplete
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\obj\Debug\Zona de pruebas.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Zona de pruebas\obj\Debug\Zona de pruebas.pdb

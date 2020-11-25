@@ -1,0 +1,16 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\DatosTemporales.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\DatosTemporales.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\DatosTemporales.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\SpreadsheetLight.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\SpreadsheetLight.xml
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.Form1.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.Properties.Resources.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.csproj.GenerateResource.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.csproj.CopyComplete
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\obj\Debug\DatosTemporales.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\FuncionesEstadistica.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\DatosTemporales\bin\Debug\FuncionesEstadistica.pdb
