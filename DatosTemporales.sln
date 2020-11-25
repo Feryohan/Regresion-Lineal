@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatosTemporales", "DatosTemporales.csproj", "{4D851DAB-82A2-4AFE-8F1C-A2C9D8C947CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesEstadistica", "..\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\FuncionesEstadistica.csproj", "{5D014219-14D3-4779-B8F3-325A8DBF7F95}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zona de pruebas", "Zona de pruebas\Zona de pruebas.csproj", "{90E747F3-3FF8-4D73-991C-B2C42098D8CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesEstadistica", "FuncionesEstadistica\FuncionesEstadistica.csproj", "{5D014219-14D3-4779-B8F3-325A8DBF7F95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{4D851DAB-82A2-4AFE-8F1C-A2C9D8C947CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D851DAB-82A2-4AFE-8F1C-A2C9D8C947CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D851DAB-82A2-4AFE-8F1C-A2C9D8C947CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Release|Any CPU.Build.0 = Release|Any CPU
 		{90E747F3-3FF8-4D73-991C-B2C42098D8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{90E747F3-3FF8-4D73-991C-B2C42098D8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E747F3-3FF8-4D73-991C-B2C42098D8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E747F3-3FF8-4D73-991C-B2C42098D8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D014219-14D3-4779-B8F3-325A8DBF7F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
